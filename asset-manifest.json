@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expensesapp/static/css/main.a4f1fe2c.chunk.css",
+    "main.js": "/expensesapp/static/js/main.1efb96e1.chunk.js",
+    "main.js.map": "/expensesapp/static/js/main.1efb96e1.chunk.js.map",
+    "runtime-main.js": "/expensesapp/static/js/runtime-main.a1eaf0a9.js",
+    "runtime-main.js.map": "/expensesapp/static/js/runtime-main.a1eaf0a9.js.map",
+    "static/js/2.2bcfe12b.chunk.js": "/expensesapp/static/js/2.2bcfe12b.chunk.js",
+    "static/js/2.2bcfe12b.chunk.js.map": "/expensesapp/static/js/2.2bcfe12b.chunk.js.map",
+    "index.html": "/expensesapp/index.html",
+    "precache-manifest.deb7c992b092c9985f67ad0025917cd8.js": "/expensesapp/precache-manifest.deb7c992b092c9985f67ad0025917cd8.js",
+    "service-worker.js": "/expensesapp/service-worker.js",
+    "static/css/main.a4f1fe2c.chunk.css.map": "/expensesapp/static/css/main.a4f1fe2c.chunk.css.map",
+    "static/media/index.css": "/expensesapp/static/media/Montserrat-Medium.c8b6e083.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1eaf0a9.js",
+    "static/js/2.2bcfe12b.chunk.js",
+    "static/css/main.a4f1fe2c.chunk.css",
+    "static/js/main.1efb96e1.chunk.js"
+  ]
+}
